@@ -18,7 +18,7 @@ public class DiceApplication {
         int counterFor7 = 0;
 
         //for loop that iterates 100 times and prints out the sum each time
-        for (int i = 0; i < 100; i++) {
+        for (int i = 1; i <= 100; i++) {
             diceRoll1 = dice.roll();
             diceRoll2 = dice.roll();
 
