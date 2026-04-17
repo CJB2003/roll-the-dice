@@ -43,7 +43,7 @@ public class DiceApplication {
             }
         }
         //Displaying the amount of times each number got rolled
-        System.out.println("Amount of times 2 got rolled: " + counterFor2);
+        System.out.println("\nAmount of times 2 got rolled: " + counterFor2);
         System.out.println("Amount of times 4 got rolled: " + counterFor4);
         System.out.println("Amount of times 6 got rolled: " + counterFor6);
         System.out.println("Amount of times 7 got rolled: " + counterFor7);
